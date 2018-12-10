@@ -9,7 +9,7 @@ This section will be explaining all of the steps that need to be taken when buil
 The first step that has to be taken is to meet with the client in order to establish a set of requirements that need to be met so that the application does what they want and need it to do. Additionally, this step can be used to determine the budget and time-frame of how long the project may take to complete, from this the company can then set out to allocate tasks to employees in order to meet deadlines.
 ### Design
 In this phase the employees decide on which architecture will be best suited for this project in order to ensure maximum efficiency. Usually more than one design approach is proposed in order to send this off to the main stakeholders, who then review the various parameters, such as risk assessment, product robustness, budget and time constraints which then leads to them making a decision on what the best design architecture is for the program.
-<br/> After this is done, the actual designing of the project takes place
+<br/> After this is done, the actual designing of the project takes place and the building of the program is started. The code is developed as part of the Design Document Specification, as a result if the development is implemented in a detailed and organised manner, coding can be virtually hassle-free. The developers of the code have to follow coding standards that have been provided by their organisation, programming tools like compilers, interpreters and debuggers are crucial in developing the code 
 ### Implementation
 ### Testing
 ### Deployment
